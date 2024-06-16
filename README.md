@@ -1,5 +1,9 @@
 # Chat Assistant - phi-3 - ONNX
 
+## Demo
+
+(![demo gif](https://github.com/jivaniyash/Chat-Assistant-phi-3-ONNX/blob/master/demo-file/video-demo.gif))
+
 ## Usage
 This repository provides a chat bot assistant using the phi-3 model powered by ONNX. Follow the instructions below to set up and run the application.
 
